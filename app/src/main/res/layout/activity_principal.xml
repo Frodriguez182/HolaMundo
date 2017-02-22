@@ -19,7 +19,6 @@
         android:layout_alignParentStart="true">
 
         <TextView
-            android:text="TextView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/textView"
@@ -37,10 +36,10 @@
             android:text="@string/Saludar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/cmdBoton" />
+            android:id="@+id/cmdBoton"
+            android:onClick="saludar " />
 
         <TextView
-            android:text="TextView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/ibMensaje" />
