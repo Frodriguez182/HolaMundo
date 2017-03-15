@@ -30,7 +30,16 @@
             android:layout_height="wrap_content"
             android:inputType="textPersonName"
             android:ems="10"
-            android:id="@+id/txtNombre" />
+            android:id="@+id/txtNombre"
+            android:hint="@string/Nombre" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/Txtapellido"
+            android:hint="@string/Apellido" />
 
         <Button
             android:text="@string/Saludar"

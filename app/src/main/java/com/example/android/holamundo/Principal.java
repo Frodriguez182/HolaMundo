@@ -12,6 +12,7 @@ public class Principal extends AppCompatActivity {
     private EditText cajaNombre;
     private TextView cajaMensaje;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
