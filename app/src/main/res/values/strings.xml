@@ -5,4 +5,8 @@
     <string name="parte_saludo">Hola</string>
     <string name="Nombre">Nombre</string>
     <string name="Apellido">Apellido</string>
+    <string name="Soltero" />
+    <string name="Casado" />
+    <string name="Divorciado">Divorciado(a)</string>
+    <string name="Borrar">Borrar</string>
 </resources>
